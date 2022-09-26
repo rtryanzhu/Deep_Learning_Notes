@@ -1,0 +1,11 @@
+# Pytorch vs Sklearn
+A platform capable of DL & ML
+
+# Pytorch vs tensorflow
+
+# DL vs ML/AI
+DL in ML in AI
+
+# Batch size vs Epoch
+Use SGD to train models in DL, how many data points used by 1 iteration to deal with data
+In SGD, epoch is 1 fwd and 1 bwd 
